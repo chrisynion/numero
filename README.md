@@ -5,3 +5,8 @@ Development Steps
 4. Build the Figma design into the theme
 5. Added the needed styles, fonts and scripts
 6. Ensure everything is mobile responsive
+
+How To Test
+1. Download the installable zip file https://github.com/chrisynion/numero/blob/main/whitestone.zip
+2. Install in your WordPress site
+3. View the home/front page
