@@ -8,5 +8,6 @@ Development Steps
 
 How To Test
 1. Download the installable zip file https://github.com/chrisynion/numero/blob/main/whitestone.zip
-2. Install in your WordPress site
-3. View the home/front page
+2. Install and activate the theme in your WordPress site
+3. Create the menus in Appearance > Menus
+4. View the home/front page
